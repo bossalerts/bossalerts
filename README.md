@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on upwork.com
+- 👯 I’m looking to collaborate on upwork
+- 💬 Ask me about your project
+- 📫 How to reach me: workmessages@bossalerts.com
+- 😄 Pronouns: He/him
 <!--
 **bossalerts/bossalerts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
